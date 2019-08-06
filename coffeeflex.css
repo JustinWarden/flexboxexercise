@@ -1,0 +1,43 @@
+.pageHeader{
+    display:flex;
+    justify-content: center;
+}
+.list{
+ display: flex;
+ flex-direction: column;
+    align-content: center;
+}
+.coffee1{
+    display:flex;
+    justify-content:center;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-basis: 0;
+   
+}
+.coffee2{
+    display:flex;
+    justify-content:center;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-basis: 0;
+}
+.coffee3{
+    display:flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-basis: 0;
+}
+.coffee4{
+    display:flex;
+    justify-content: left;
+    justify-content: space-evenly;
+    align-content: center;
+    
+}
+.coffee5{
+    display:flex;
+    justify-content: left;
+    justify-content: space-evenly;
+}
